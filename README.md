@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Roa'a Badawy</h1>
 <h3 align="center">I'm passionate about data science.</h3>
-<image align="right" alt="coding" width="400" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif">
+
 - 📫 How to reach me **roaa.badawy7@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
