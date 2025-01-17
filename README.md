@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Roa'a Badawy</h1>
-<h3 align="center">I'm passionate about mobile development.</h3>
+<h3 align="center">I'm passionate about Data Analysis.</h3>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Data Analysis**
 
 - 📫 How to reach me **roaa.badawy7@gmail.com**
 
